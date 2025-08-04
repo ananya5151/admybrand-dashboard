@@ -95,7 +95,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 
 ## AI Usage Report
 
-This project was developed in collaboration with an AI assistant (Google's Gemini). The AI played a significant role in the following areas:
+This project was developed in collaboration with an AI assistant (Google's Gemini) and ClaudeAI. The AI played a significant role in the following areas:
 
 -   **Initial Scaffolding:** Generated the initial Next.js project setup, directory structure, and `shadcn/ui` configuration commands.
 -   **Component Generation:** Provided boilerplate code for all major components, including the Sidebar, Header, Cards, Charts, and Data Tables, which were then refined and customized.
