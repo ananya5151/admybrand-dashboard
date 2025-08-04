@@ -21,7 +21,7 @@ A modern, feature-rich, and beautifully designed analytics dashboard built with 
 <img width="250" alt="Mobile Dashboard" src="https://github.com/user-attachments/assets/eaf1b8dd-2ccf-44b4-8c88-e54de7845f9b" />
 <img width="250" alt="Mobile Menu" src="https://github.com/user-attachments/assets/8ce28ff1-8fa0-445a-8799-310bc60469cb" />
 <img width="250" alt="Mobile Orders" src="https://github.com/user-attachments/assets/f852565d-22f5-43c5-96a7-10c5ab2be64d" />
-## Features
+
 
 This dashboard is packed with features designed to provide a comprehensive and intuitive user experience.
 
